@@ -27,3 +27,4 @@ for k in range(7):
             lotto_list.append(my_list[l])
             break
 print("본인 당첨번호 리스트: {}".format(lotto_list))
+

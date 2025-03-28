@@ -19,3 +19,4 @@ for k in range(2, 9+1):
     for l in range(1, 9+1):
         print("{} * {} = {:2d}\t".format(k, l, k*l), end="")
     print()
+    

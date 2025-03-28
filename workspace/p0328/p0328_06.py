@@ -22,3 +22,4 @@ for i in range(10):
 print("랜덤번호: {}".format(lotto_num))
 print("도전횟수: {}".format(i+1))
 print("입력 목록: {}".format(input_list))
+

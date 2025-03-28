@@ -18,3 +18,4 @@ for k in range(1, 100):
         sum += k
 print("합: {}".format(sum))
 
+

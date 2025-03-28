@@ -17,3 +17,4 @@ print()
 alphas = ["a", "b", "c"]
 for alpha in alphas:
     print (alpha, end="")
+    

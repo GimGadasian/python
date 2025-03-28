@@ -45,3 +45,4 @@ for i in range(num_first, num_second+1):
         print("{} * {} = {}".format(i, j, i*j), end="")
         print()
         print()
+        
