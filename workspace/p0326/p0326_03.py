@@ -6,7 +6,7 @@ print("공자께서 말씀하셨다 \"~~~\"")
 # print()의 다양한 활용
 print()
 print("%s: %d" %("출력값", 100)) # s: str, d: digit, f: float, c: char(한글도 가능)
-print("출력값:", 100)
+print("출력값: \n", 100)
 print("\n200 / 300 = 0.5") # 따옴표 안을 문자열로 받아들임
 print("200 / 300 = ", end = '')
 print(200 / 300)

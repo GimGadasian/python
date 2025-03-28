@@ -29,3 +29,4 @@ for num in range(1, 11):
 print("랜덤 숫자: {}".format(ran_num))
 print("도전횟수: {}".format(len(input_nums)))
 print("입력된 숫자: {}".format(input_nums))
+
