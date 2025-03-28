@@ -1,0 +1,5 @@
+print("안녕, 반가워")
+print("hello " * 5)
+print(10 - 3)
+print(10 * 3)
+print(10 / 3)
