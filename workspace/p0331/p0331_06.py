@@ -39,3 +39,4 @@ while True:
 			else:
 				print("{:.2f}".format(s))		
 		print()
+

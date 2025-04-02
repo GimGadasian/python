@@ -127,6 +127,7 @@
 #         if (input_num % 5 == 0):
 #             print("5의 배수 입력 금지!")
 #             continue
+
 #         input_sum += input_num
 #     except ValueError:
 #         print("숫자를 입력하세요!")

@@ -29,10 +29,7 @@ while True:
 		print()
 		print()
 		print()
-    
-  
-	
- 
+
 	x_val = int(input("x 값을 입력하세요: "))
 	if (x_val > 4 or x_val < 0):
 		continue

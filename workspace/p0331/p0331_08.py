@@ -11,7 +11,6 @@ for i in range(5):
         list_init_5x5[i][j] = random_list[(5*i)+j]
 new_list = list_init_5x5
 
-
 while True:
     print("-"*40)
     for i in range(5):
